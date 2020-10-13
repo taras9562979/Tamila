@@ -11,6 +11,15 @@ We write
 You write
 They write
 
+Present Continuous
+
+I am writing
+you are writing
+he is writing
+we are writing
+you are writing
+they are writing
+
 Past
 
 I wrote
