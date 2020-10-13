@@ -19,3 +19,12 @@ He, she, it wrore
 We wrote
 You wrote
 They wrote
+
+Future
+
+I will work
+You will work
+He, she, it will work
+We will work
+You will work
+They will work
